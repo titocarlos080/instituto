@@ -6,9 +6,16 @@
     <title>Instituto</title>
  </head>
  <body>
+   
  
+
+
+
  soy el instituto
  
+
+
+
 
  </body>
  </html>
