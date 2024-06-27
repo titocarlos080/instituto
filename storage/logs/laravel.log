@@ -346,3 +346,113 @@
 #10 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
 #11 {main}
 "} 
+[2024-06-20 06:03:32] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:36] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:38] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:40] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:42] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:44] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:45] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:03:47] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-20 06:05:54] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-22 18:25:37] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
+[2024-06-23 04:24:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php:636)
+[stacktrace]
+#0 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(685): Symfony\\Component\\Console\\Application->findNamespace()
+#1 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(258): Symfony\\Component\\Console\\Application->find()
+#2 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\symfony\\console\\Application.php(167): Symfony\\Component\\Console\\Application->doRun()
+#3 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run()
+#4 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1198): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 D:\\SEMESTRE_1_2024\\TECNOLOGIA_WEB\\PROYECTOS\\instituto\\artisan(13): Illuminate\\Foundation\\Application->handleCommand()
+#6 {main}
+"} 
