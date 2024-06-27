@@ -1,19 +1,13 @@
- <!DOCTYPE html>
- <html lang="en">
- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Instituto</title>
-    <link rel="stylesheet" href="/css/app.css">
- </head>
- <body>
-   
- 
+<?php $__env->startSection('title', 'Eta'); ?>
 
-<h1>Hola soy WELCOME</h1>
- 
+<?php $__env->startSection('content_header'); ?>
+    <h1>ETA HANS ROTH</h1>
+<?php $__env->stopSection(); ?>
 
+<?php $__env->startSection('content'); ?>
+    <div class="content bg-dark p-1">
+        <p>BIENVENIDOS</p>
+    </div>
+<?php $__env->stopSection(); ?>
 
- </body>
- </html><?php /**PATH D:\SEMESTRE_1_2024\TECNOLOGIA_WEB\PROYECTOS\instituto\resources\views/welcome.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('adminlte::page', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\SEMESTRE_1_2024\TECNOLOGIA_WEB\PROYECTOS\instituto\resources\views/welcome.blade.php ENDPATH**/ ?>

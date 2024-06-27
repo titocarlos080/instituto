@@ -1,19 +1,13 @@
- <!DOCTYPE html>
- <html lang="en">
- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <title>Instituto</title>
-    <link rel="stylesheet" href="/css/app.css">
- </head>
- <body>
-   
- 
+@extends('adminlte::page')
 
-<h1>Hola soy WELCOMEasdf</h1>
- 
+@section('title', 'Eta')
 
-  
- </body>
- </html>
+@section('content_header')
+    <h1>ETA HANS ROTH</h1>
+@stop
+
+@section('content')
+    <div class="content bg-dark p-1">
+        <p>BIENVENIDOS</p>
+    </div>
+@stop
